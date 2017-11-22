@@ -91,13 +91,13 @@ background-image: url("background%20homepage.jpg");
 
     
 div#section2content{
-  background-image: url(achtergrond/2whywave.jpg);
+  background-image: url(2whywave.jpg);
   padding-top: 5%;
    
 }
 
 div#section3content {
-    background-image: url(achtergrond/3surfcamp.jpg);
+    background-image: url(3surfcamp.jpg);
 
 }
 
@@ -154,7 +154,7 @@ div#surfcamplist{ font-family: 'Space Mono', monospace;
 }
 
 div#section4content {
-    background-image:url(achtergrond/4lessons.jpg);
+    background-image:url(4lessons.jpg);
         
 }
 
@@ -183,7 +183,7 @@ img.lessen {
      position:absolute;
 }
 div#section5content {
-    background-image: url(achtergrond/5contact.jpg);
+    background-image: url(5contact.jpg);
 }
 
 div#contact {
