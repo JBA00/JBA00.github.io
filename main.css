@@ -212,6 +212,7 @@ div#socialmedia {
 img.sm { 
          height:6%;
          width:6%;
+         z-index: 1;
     
     
 }
