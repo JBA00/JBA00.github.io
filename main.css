@@ -212,6 +212,7 @@ div#socialmedia {
 img.sm { 
          height:6%;
          width:6%;
+         box-shadow: 3px 3px 5px #454545;
          z-index: 1;
     
     
