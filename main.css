@@ -107,6 +107,10 @@ div#section3content {
     border-spacing: 40px 0px;
 }
 
+td.table { 
+  padding:10%;
+}
+
 
 #section2content td, #section2content th {
     background-color: transparent;
