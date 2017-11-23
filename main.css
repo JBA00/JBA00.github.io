@@ -51,7 +51,7 @@ p.description { font-family: 'Space Mono', monospace;
                     
 }
 
-#section-1, #section2content, #section3content, #section4content, #section5content {
+#section2content, #section3content, #section4content, #section5content {
   position: relative;
   background-attachment: fixed;
   background-position: center;
@@ -61,6 +61,17 @@ p.description { font-family: 'Space Mono', monospace;
   box-shadow: 5px 5px 10px #454545; 
 
 }
+#section-1 {
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 20%;
+  min-height: 110%;
+  box-shadow: 5px 5px 10px #454545; 
+}
+  
 
 #section-2, #section-3, #section-4, #section-5 {
         display:block;
