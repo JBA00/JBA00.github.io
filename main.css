@@ -82,13 +82,14 @@ background-image: url("background%20homepage.jpg");
     div#welcome { 
              background: red;
              margin-left: 10%;
+             margin-right: 10%;
              padding:2%;
              width:70%;
              height:100%;
              min-height: 400px;
     
 }
-div#textpusher { color: transparant;
+div#textpusher { color: yellow;
                  float: left;
                  min-height: 400px;
                  width: 25%;
