@@ -80,7 +80,7 @@ background-image: url("background%20homepage.jpg");
             
 
     div#welcome { 
-             background:transparent;
+             background: red;
              margin-left: 10%;
              padding:2%;
              width:70%;
