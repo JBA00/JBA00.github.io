@@ -88,6 +88,10 @@ background-image: url("background%20homepage.jpg");
              min-height: 400px;
     
 }
+div#textpusher { color: transparant;
+                 float: left;
+                 min-height: 400px;
+}
 
     
 div#section2content{
