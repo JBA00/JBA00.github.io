@@ -51,7 +51,7 @@ p.description { font-family: 'Space Mono', monospace;
                     
 }
 
-#section2content, #section3content, #section4content, #section5content {
+#section-1, #section2content, #section3content, #section4content, #section5content {
   position: relative;
   background-attachment: fixed;
   background-position: center;
@@ -60,16 +60,6 @@ p.description { font-family: 'Space Mono', monospace;
   min-height: 110%;
   box-shadow: 5px 5px 10px #454545; 
 
-}
-#section-1 {
-  position: relative;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin-left: 20%;
-  min-height: 110%;
-  box-shadow: 5px 5px 10px #454545; 
 }
   
 
@@ -91,11 +81,11 @@ background-image: url("background%20homepage.jpg");
 
     div#welcome { 
              background:transparent;
-             margin-left: 6%;
+             margin-left: 10%;
              padding:2%;
              width:70%;
              height:100%;
-             margin-top:0%;
+             margin-top:20%;
              min-height: 400px;
     
 }
@@ -221,6 +211,7 @@ div#socialmedia {
     background-color:transparent;
     float:left;
     margin-left:5%;
+    margin-bottom: 5%;
     clear:left;
     font-size:110%;
 
