@@ -91,6 +91,7 @@ background-image: url("background%20homepage.jpg");
 div#textpusher { color: transparant;
                  float: left;
                  min-height: 400px;
+                 width: 25%;
 }
 
     
