@@ -88,8 +88,10 @@ div#section-1{
              min-height: 400px;
     
 }
-span#welcome { padding-top:5
+
+span#welcome { padding-top:5%
 }
+
 div#textpusher { color: yellow;
                  float: left;
                  min-height: 400px;
@@ -117,6 +119,7 @@ div#section3content {
 td.tablecell { 
   padding:5%;
 }
+
 span.table { color: white;
              padding: 5%;
 }
