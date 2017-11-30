@@ -81,6 +81,7 @@ background-image: url("background%20homepage.jpg");
 
     div#welcome { 
              background: red;
+             margin-top: 5%;
              margin-left: 10%;
              margin-right: 10%;
              padding:2%;
@@ -115,6 +116,7 @@ div#section3content {
 
 td.table { 
   padding:25%;
+  color: pink;
 }
 
 
