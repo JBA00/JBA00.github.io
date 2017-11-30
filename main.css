@@ -69,11 +69,10 @@ p.description { font-family: 'Space Mono', monospace;
         box-shadow: 5px 5px 10px #454545;   
         min-height: 10%;
         width:100%;
-        font-family: 'Space Mono', monospace;
 }
 
 div#section-1{
-background-image: url("background%20homepage.jpg");
+  background-image: url("background%20homepage.jpg");
   min-height: 100%;
 
 }
@@ -88,6 +87,8 @@ background-image: url("background%20homepage.jpg");
              height:100%;
              min-height: 400px;
     
+}
+span#welcome { padding-top:5
 }
 div#textpusher { color: yellow;
                  float: left;
