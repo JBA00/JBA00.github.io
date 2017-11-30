@@ -69,7 +69,7 @@ p.description { font-family: 'Space Mono', monospace;
         box-shadow: 5px 5px 10px #454545;   
         min-height: 10%;
         width:100%;
-        
+        font-family: 'Space Mono', monospace;
 }
 
 div#section-1{
