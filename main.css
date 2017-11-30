@@ -84,7 +84,7 @@ background-image: url("background%20homepage.jpg");
              margin-left: 10%;
              margin-right: 10%;
              padding:2%;
-             width:70%;
+             width:65%;
              height:100%;
              min-height: 400px;
     
@@ -113,10 +113,11 @@ div#section3content {
     border-spacing: 40px 0px;
 }
 
-td.table { 
+td.tablecell { 
   padding:5%;
 }
-tr.tablecell { padding: 20%;
+span.table { color: white;
+             padding: 5%;
 }
 
 #section2content td, #section2content th {
