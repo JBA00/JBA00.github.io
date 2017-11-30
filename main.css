@@ -81,7 +81,6 @@ background-image: url("background%20homepage.jpg");
 
     div#welcome { 
              background: red;
-             margin-top: 5%;
              margin-left: 10%;
              margin-right: 10%;
              padding:2%;
@@ -115,10 +114,10 @@ div#section3content {
 }
 
 td.table { 
-  padding:25%;
-  color: pink;
+  padding:5%;
 }
-
+tr.tablecell { padding: 20%;
+}
 
 #section2content td, #section2content th {
     background-color: transparent;
