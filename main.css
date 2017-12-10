@@ -39,6 +39,7 @@ p.header {
 h1#welcome {font-family: 'Open Sans Condensed', sans-serif;
               font-size:400%;
               color:white;
+              margin-top: 5%;
               
               
 }
@@ -47,6 +48,7 @@ p.description { font-family: 'Space Mono', monospace;
                    color:white;
                    font-size:75%;
                    text-align: right;
+                   margin-top:5%;
              
                     
 }
@@ -80,7 +82,7 @@ div#section-1{
 
     div#welcome { 
              background: red;
-             margin-left: 10%;
+             margin-left: 20%;
              margin-right: 10%;
              padding:2%;
              width:65%;
