@@ -88,17 +88,7 @@ div#section-1{
              min-height: 400px;
     
 }
-
-span#welcome { padding-top:5%
-}
-
-div#textpusher { color: yellow;
-                 float: left;
-                 min-height: 400px;
-                 width: 25%;
-}
-
-    
+  
 div#section2content{
   background-image: url(2whywave.jpg);
   padding-top: 5%;
@@ -114,10 +104,6 @@ div#section3content {
 #section2content table{
     color: white;
     border-spacing: 40px 0px;
-}
-
-td.tablecell { 
-  padding:5%;
 }
 
 span.table { color: white;
