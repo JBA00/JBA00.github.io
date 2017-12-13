@@ -269,5 +269,7 @@ audio{
   cursor: pointer;
   text-decoration: none;
   color: 20%;
+  border: none;
+  background-color: transparent;
 }
 
