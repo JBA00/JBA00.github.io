@@ -272,6 +272,7 @@ audio{
   border: none;
   background-color: transparent;
   size: 70%;
+  opacity: 0.5;
   
 }
 
