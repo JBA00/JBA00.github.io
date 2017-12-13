@@ -262,7 +262,7 @@ audio{
     
 }
 
-#button {
+.button {
     display: none;
     position: fixed; /* Fixed/sticky position */
     bottom: 5%; /* Place the button at the bottom of the page */
@@ -277,6 +277,6 @@ audio{
     border-radius: 20%; /* Rounded corners */
 }
 
-#button:hover {
+.button:hover {
     background-color: #555; /* Add a dark-grey background on hover */
 }
