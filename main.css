@@ -180,8 +180,8 @@ div#lessons { height:200%;
 
 img.lessen {
      float:left;
-     height:40%;
-     width:30%;
+     height: auto;
+     width: 30%;
      margin-top:15%;
      margin-left:10%;
      clear:none;
